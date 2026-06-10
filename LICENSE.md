@@ -1,4 +1,4 @@
-# 
+# Instantáneo AI Music Generator with LSTM plugins. Con IA en el borde y analítica predictiva — optimizado para el máximo rendimiento.
 
 
 
